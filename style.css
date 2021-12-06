@@ -124,7 +124,12 @@ a {
 		
 
  
-}		
+}	
+.header h9 {
+	font-size: 30px;
+	color: #ffffff;
+	text-align: center;
+}	
 
 
 .avatarbota {
